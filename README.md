@@ -3,7 +3,7 @@
 This repository provides in situ observational data on permafrost type, active layer thickness (ALT), and soil organic carbon (SOC) density across the Tibetan Plateau. The dataset includes:
 
 - **Permafrost type** (permafrost or seasonally frozen ground)
-- **Active layer thickness** (cm)
+- **Active layer thickness** (m)
 - **Soil organic carbon density** (kg C/m²)
 
 The data were compiled from field measurements and are released as supplementary material to the following article:
